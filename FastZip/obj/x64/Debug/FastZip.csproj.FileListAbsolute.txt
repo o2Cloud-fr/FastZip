@@ -1,0 +1,8 @@
+C:\Users\MyAlien\source\repos\FastZip\FastZip\bin\x64\Debug\FastZip.exe.config
+C:\Users\MyAlien\source\repos\FastZip\FastZip\bin\x64\Debug\FastZip.exe
+C:\Users\MyAlien\source\repos\FastZip\FastZip\bin\x64\Debug\FastZip.pdb
+C:\Users\MyAlien\source\repos\FastZip\FastZip\obj\x64\Debug\FastZip.csproj.AssemblyReference.cache
+C:\Users\MyAlien\source\repos\FastZip\FastZip\obj\x64\Debug\FastZip.csproj.SuggestedBindingRedirects.cache
+C:\Users\MyAlien\source\repos\FastZip\FastZip\obj\x64\Debug\FastZip.csproj.CoreCompileInputs.cache
+C:\Users\MyAlien\source\repos\FastZip\FastZip\obj\x64\Debug\FastZip.exe
+C:\Users\MyAlien\source\repos\FastZip\FastZip\obj\x64\Debug\FastZip.pdb
